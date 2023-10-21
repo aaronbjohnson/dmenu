@@ -12,7 +12,7 @@ static const char *prompt      = NULL;      /* -p  option; prompt to the left of
 static const char bright_red[] = "#ff2500";
 
 /* make new one-point-of-change-variable */
-static const char selected_text_color[] = "#77879B";
+static const char selected_text_color[] = "#ff2500";
 
 /* Default Color Scheme */
 /*
